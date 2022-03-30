@@ -1,6 +1,5 @@
 ### Hi there 👋
 ### Senior Programmer for AEMBOT FRC 6443 / FTC 11591
-### LHS Class of 2022
 
 
 <!--
