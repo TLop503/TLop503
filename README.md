@@ -1,4 +1,5 @@
 ### Hi there 👋
+### LHS 2022 --> OSU 2026
 ### Senior Programmer for AEMBOT FRC 6443 / FTC 11591
 
 
