@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### LHS 2022 --> OSU 2026
+### CompSci Major
 ### Senior Programmer for AEMBOT FRC 6443 / FTC 11591
 ### I mostly work in Java but am looking to branch out
 
