@@ -2,6 +2,8 @@
 ### LHS 2022 --> OSU 2026
 ### AEMBOT FRC 6443 / FTC 11591 Alumni
 
+###Currently working on developing the Semi-Autonomous Pallet Logistics System
+
 
 <!--
 **TLop503/TLop503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
