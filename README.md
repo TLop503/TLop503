@@ -2,7 +2,7 @@
 LHS 2022 --> OSU 2026
 AEMBOT FRC 6443 / FTC 11591 Alumni
 
-I'm Currently working on TLop's R AIO, a series of scripts to omptimize and streamline R for people who don't want to learn R.
+I'm currently working on TLop's R AIO, a series of scripts to omptimize and streamline R for people who don't want to learn R.
 
 
 <!--
