@@ -3,7 +3,8 @@
 
 - Currently working on MUUD, a Python package that will convert all the markup languages to all the other markup languages
 - Previously published Tlop's R AIO, a couple of scripts to automate the homework for ST 314 at OSU in such a way to not be considered cheating.
-- Currently employed at OSU's UIT IAM dept, where I develop Python solutions to account management and and document archival.
+- Currently employed at OSU's UIT IAM dept, where I develop Python solutions to account management, identity administration, and document archival.
+- CTF writeups for OSUSEC are in /osusec-writeups, and some tools and code snippets from challenges are stored in /grimoire
 - AEMBOT FRC 6443 / FTC 11591 Alumni
 
 ----
