@@ -7,7 +7,7 @@ Oregon State Honors Cybersecurity Class of 2026
 - CTF writeups for OSUSEC are in /osusec-writeups, and some tools and code snippets from challenges are stored in /grimoire
 - AEMBOT FRC 6443 / FTC 11591 Alumn
 
-Email me for anything proffessional, I don't keep this updated like a resume.
+Email me for anything professional, I don't keep this updated like a resume.
 
 <!--
 **TLop503/TLop503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
