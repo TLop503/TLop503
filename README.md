@@ -2,7 +2,7 @@
 Oregon State Honors Cybersecurity Class of 2026
 
 - Currently (occasionally) working on MUUD, a Python package that will convert all the markup languages to all the other markup languages
-- Previously published Tlop's R AIO, a couple of scripts to automate the homework for ST 314 at OSU in such a way to not be considered cheating.
+- Previously published Tlop's R AIO, a couple of scripts to aid in the completion of ST 314 at OSU in such a way to still be academically honest.
 - Currently employed at OSU's UIT Identity Access Management Dept, where I manually choose and send out every Duo Push 3-digit verification code (and occassionally work as a student tech and python dev handling backend infrastructure)
 - CTF writeups for OSUSEC are in /osusec-writeups, and some tools and code snippets from challenges are stored in /grimoire
 - AEMBOT FRC 6443 / FTC 11591 Alumn
