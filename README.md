@@ -1,6 +1,9 @@
 # Troy Lopez
 Oregon State Honors Cybersecurity Class of 2026
 
+Under construction, lots of this is old...
+check out tlop.xyz for more up to date info!
+
 - Check out the beaverf1 site, a homepage with stats and whatnot for a fantasy Formula 1 leauge
 - Occassionally working on MUUD, a Python package that will convert all the markup languages to all the other markup languages
 - Previously published Tlop's R AIO, a couple of scripts to aid in the completion of ST 314 at OSU in such a way to still be academically honest.
