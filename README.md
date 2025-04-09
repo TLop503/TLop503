@@ -9,7 +9,7 @@ check out tlop.xyz for more up to date info!
 - LogCrunch is a WIP SIEM for my Honors Thesis
 - AEMBOT FRC 6443 / FTC 11591 Alumn
 
-[Email](tlop@tlop.xyz) me for anything professional, I don't keep this updated like a resume.
+[Email](mailto:tlop@tlop.xyz) me for anything professional, I don't keep this updated like a resume.
 
 <!--
 **TLop503/TLop503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
